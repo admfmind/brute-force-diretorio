@@ -1,0 +1,13 @@
+.txt
+.php
+.html
+.img
+.jpg
+.jpeg
+.js
+.db
+.png
+.zip
+.rar
+.bin
+
