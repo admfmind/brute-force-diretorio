@@ -28,7 +28,7 @@ db
 private
 secure
 tmp
-.git
+git
 modules
 includes
 backup
